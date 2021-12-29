@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "nombre": "CRA - Auditorio",
+    "eventColor": "red"
+  },
+  {
+    "id": 2,
+    "nombre": "CRA - Linoleo",
+    "eventColor": "blue"
+  },
+  {
+    "id": 3,
+    "nombre": "CRA - Sala coworking",
+    "eventColor": "yellow"
+  },
+  {
+    "id": 4,
+    "nombre": "CRA - Sala reuniones",
+    "eventColor": "orange"
+  },
+  {
+    "id": 5,
+    "nombre": "CRA - Taller sucio",
+    "eventColor": "green"
+  },
+  {
+    "id": 6,
+    "nombre": "CRA - taller limpio",
+    "eventColor": "purple"
+  },
+  {
+    "id": 7,
+    "nombre": "CRA - Completo",
+    "eventColor": "plum"
+  },
+  {
+    "id": 8,
+    "nombre": "TERRARIO - GT",
+    "eventColor": "royalblue"
+  },
+  {
+    "id": 9,
+    "nombre": "TERRARIO - Expo",
+    "eventColor": "salmon"
+  },
+  {
+    "id": 10,
+    "nombre": "TALLER",
+    "eventColor": "seagreen"
+  },
+  {
+    "id": 11,
+    "nombre": "ESPACIO (FACT)",
+    "eventColor": "snow"
+  },
+  {
+    "id": 12,
+    "nombre": "LA HOJA",
+    "eventColor": "violet"
+  },
+  {
+    "id": 13,
+    "nombre": "SALA AZCONA",
+    "eventColor": "turquoise"
+  },
+  {
+    "id": 14,
+    "nombre": "SALA BORAU",
+    "eventColor": "wheat"
+  },
+  {
+    "id": 15,
+    "nombre": "SALA PLATO",
+    "eventColor": "yellowgreen"
+  },
+  {
+    "id": 16,
+    "nombre": "ARCHIVO",
+    "eventColor": "pink"
+  },
+  {
+    "id": 17,
+    "nombre": "CINETECA TODO",
+    "eventColor": "lime"
+  },
+  {
+    "id": 18,
+    "nombre": "PLAZA A",
+    "eventColor": "magenta"
+  },
+  {
+    "id": 19,
+    "nombre": "PLAZA B",
+    "eventColor": "marron"
+  },
+  {
+    "id": 20,
+    "nombre": "PLACITA",
+    "eventColor": "brown"
+  },
+  {
+    "id": 21,
+    "nombre": "CALLE MATADERO",
+    "eventColor": "peru"
+  },
+  {
+    "id": 22,
+    "nombre": "DIMAD",
+    "eventColor": "black"
+  },
+  {
+    "id": 23,
+    "nombre": "NAVE 10 - Sala Max Aub",
+    "eventColor": "cyan"
+  },
+  {
+    "id": 24,
+    "nombre": "NAVE 10 - Sala Hormigon",
+    "eventColor": "crimson"
+  },
+  {
+    "id": 25,
+    "nombre": "NAVE 10 - Sala Madera",
+    "eventColor": "darkgrey"
+  },
+  {
+    "id": 26,
+    "nombre": "NAVE 11 - Sala Fdo. Arrabal",
+    "eventColor": "grey"
+  },
+  {
+    "id": 27,
+    "nombre": "NAVE 12 - Café naves",
+    "eventColor": "gold"
+  },
+  {
+    "id": 28,
+    "nombre": "CDL - Auditorio",
+    "eventColor": "hotpink"
+  },
+  {
+    "id": 29,
+    "nombre": "CDL - Nube",
+    "eventColor": "ivory"
+  },
+  {
+    "id": 30,
+    "nombre": "CDL - Laboratorio",
+    "eventColor": "indigo"
+  },
+  {
+    "id": 31,
+    "nombre": "CDL - Aulas",
+    "eventColor": "khaki"
+  },
+  {
+    "id": 32,
+    "nombre": "CDL - FSR Salas",
+    "eventColor": "DarkOliveGreen"
+  }
+]
